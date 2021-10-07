@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/morte/AndroidStudioProjects/ExampleApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/morte/OneDrive/Dokumenter/Mobile-Examples/LifecycleExample/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/morte/OneDrive/Dokumenter/Mobile-Examples/ResourceExample/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/morte/OneDrive/Dokumenter/Mobile-Examples/ResourceExample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/morte/OneDrive/Dokumenter/Mobile-Examples/ResourceExample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.35833333333333334" />
       </map>
     </option>
   </component>
