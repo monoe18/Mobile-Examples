@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Jeff Winger",
+        "occupation": "Lawyer/Professor",
+        "age": 40
+    }, 
+    {
+        "name": "Britta Perry",
+        "occupation": "Bartender",
+        "age": 30
+    }, 
+    {
+        "name": "Annie Edison",
+        "occupation": "Hospital Adminstrator",
+        "age": 25
+    }, 
+    {
+        "name": "Troy Barnes",
+        "occupation": "Sailor",
+        "age": 25
+    }, 
+    {
+        "name": "Abed Nadir",
+        "occupation": "Film Director",
+        "age": 26
+    }
+]
